@@ -4,4 +4,6 @@ Ebrahim Fardmonfared
 All work on assignments must be done individually unless stated otherwise.
 You are encouraged to discuss with your classmates about the given assignmate,but 
 these discussions should be carried out in an abstract way.
-
+That is, discussions related to a particular solution to a specific problem (either in actual code or in the pseudocode)
+will not be tolerated. In short, turning in someone else’s work, in whole or in part, as your own will be considerednas a 
+violation of academic integrity.
